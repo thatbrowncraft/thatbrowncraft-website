@@ -20,8 +20,10 @@
 backend:
   name: git-gateway
   branch: main
-  local_backend: false
-  commit_messages:
+  
+local_backend: false
+ 
+commit_messages:
     create: "✦ New {{collection}}: {{slug}}"
     update: "✦ Updated {{collection}}: {{slug}}"
     delete: "✦ Deleted {{collection}}: {{slug}}"
