@@ -48,7 +48,7 @@ publish_mode: editorial_workflow
 # ============================================================
 
 site_url: https://thatbrowncraft.netlify.app
-display_url: https://thatbrowncraft.com
+display_url: https://thatbrowncraft.netlify.app
 
 
 # ============================================================
